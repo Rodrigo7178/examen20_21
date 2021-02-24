@@ -1,2 +1,3 @@
 soy Rodrigo
 Becerril Garces
+actualmente estoy modificando el fichero desde github
